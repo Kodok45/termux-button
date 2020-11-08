@@ -8,6 +8,8 @@
  ```
  + Author : Ghalang-Wahyuu
  + Sosmed : https://linktr.ee/GhalangWh.Official 
- 
+ NOTED :
+         Apa Bila Ada File Server Maka Hapus Saja
+         $ rm -rf server
  ~ Thanks For Using My Tool ~
  ```
